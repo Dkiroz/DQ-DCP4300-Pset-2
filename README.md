@@ -10,4 +10,4 @@ Daniel Quiroz
 ## Example Input and Output 
 | Input                      | Output                    |
 |----------------------------|---------------------------|
-|![Input](input_example.jpg) | ![Output](output.jpg)   |
+|![Input](IMG_3223.jpg) | ![Output](output.png)   |
