@@ -8,5 +8,4 @@ Authors
 Daniel Quiroz
 
 
-Example Input and Output
 Input	Output
