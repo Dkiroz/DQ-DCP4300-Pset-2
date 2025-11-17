@@ -7,5 +7,7 @@ Authors
 
 Daniel Quiroz
 
-
-Input	Output
+## Example Input and Output 
+| Input                      | Output                    |
+|----------------------------|---------------------------|
+|![Input](input_example.jpg) | ![Output](output.jpg)   |
